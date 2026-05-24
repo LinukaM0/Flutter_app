@@ -9,7 +9,7 @@ class CalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Calculator',
+      title: 'CalcPro',
       theme: AppTheme.darkTheme,
       home: const CalculatorPage(),
       debugShowCheckedModeBanner: false,
