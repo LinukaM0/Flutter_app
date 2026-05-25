@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'features/calculator/calculator_page.dart';
-import 'theme/app_theme.dart';
+import 'presentation/pages/calculator_page.dart';
+import 'utils/theme/app_theme.dart';
 
 class CalculatorApp extends StatelessWidget {
   const CalculatorApp({Key? key}) : super(key: key);
