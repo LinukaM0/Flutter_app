@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appName": "CalcPro",
+  "calculator": "Calculator",
+  "clear": "Clear",
+  "clearAll": "Clear All",
+  "backspace": "Backspace",
+  "percent": "Percent",
+  "toggleSign": "Toggle Sign",
+  "decimal": "Decimal",
+  "equals": "Equals",
+  "add": "Add",
+  "subtract": "Subtract",
+  "multiply": "Multiply",
+  "divide": "Divide",
+  "error": "Error",
+  "history": "History",
+  "noHistory": "No calculation history"
+}
