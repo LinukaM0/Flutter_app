@@ -1,5 +1,5 @@
 /// Value Objects - Immutable, domain-specific types
-/// 
+///
 /// These represent domain concepts that are best expressed
 /// as value objects rather than entities
 

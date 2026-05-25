@@ -1,5 +1,5 @@
 /// Remote data source - API client
-/// 
+///
 /// Handles remote API calls for calculation operations
 /// (Optional for this calculator, can be extended for cloud sync)
 

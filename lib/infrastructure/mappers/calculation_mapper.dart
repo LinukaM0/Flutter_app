@@ -1,5 +1,5 @@
 /// DTO to Domain Model Mapper
-/// 
+///
 /// Converts data transfer objects to domain models
 
 import '../../domain/models/calculation_model.dart';

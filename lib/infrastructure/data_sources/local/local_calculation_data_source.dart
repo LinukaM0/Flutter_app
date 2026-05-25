@@ -1,5 +1,5 @@
 /// Local data source - SharedPreferences implementation
-/// 
+///
 /// Handles local storage of calculation history
 
 import '../../domain/models/calculation_model.dart';

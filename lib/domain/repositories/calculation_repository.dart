@@ -1,5 +1,5 @@
 /// Abstract repository interface for calculations
-/// 
+///
 /// Defines the contract for calculation storage operations.
 /// Implementation should be in infrastructure layer.
 

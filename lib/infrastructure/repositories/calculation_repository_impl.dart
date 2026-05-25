@@ -1,5 +1,5 @@
 /// Concrete repository implementation
-/// 
+///
 /// Implements the abstract repository interface
 /// Uses data sources for local/remote storage
 
@@ -38,7 +38,7 @@ class CalculationRepositoryImpl implements CalculationRepository {
   Future<void> saveCalculation(Calculation calculation) async {
     // Save locally first
     await _localDataSource.saveCalculation(calculation);
-    
+
     // Optional: Sync to remote
     try {
       await _remoteDataSource.syncCalculation(calculation);

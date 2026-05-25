@@ -1,5 +1,5 @@
 /// Calculation model - Business entity
-/// 
+///
 /// Pure Dart class representing a calculation
 /// No Flutter dependencies
 
